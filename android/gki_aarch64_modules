@@ -1,2 +1,3 @@
+kernel/sched/cpufreq_schedhorizon.ko
 mm/zsmalloc.ko
 drivers/block/zram/zram.ko
